@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Reinforcement Learning and self driven cars**
 
-- 📝 I write articles on [Medium](Medium)
-
 - 💬 Ask me about **AI. Cars. Robots**
 
 - 📫 How to reach me **anshtanwar007@gmail.com**
