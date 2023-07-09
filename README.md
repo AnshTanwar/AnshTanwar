@@ -3,7 +3,7 @@
 
 - 🤖 I’m currently learning **Reinforcement Learning and self driven cars**
 
-- 💬 Ask me about **AI. Cars. Robots**
+- 💬 Ask me about **AI. Cars. Software**
 
 - 📫 How to reach me **anshtanwar007@gmail.com**
 
