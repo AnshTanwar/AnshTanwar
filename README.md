@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ansh Tanwar</h1>
+<h1 align="center">I'm Ansh Tanwar</h1>
 <h3 align="center">An AI/ML Enthusiast</h3>
 
 - 🤖 I’m currently learning **Machine Learning and Reinforcement Learning**
