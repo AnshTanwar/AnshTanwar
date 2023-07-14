@@ -1,7 +1,7 @@
 <h1 align="center">I'm Ansh Tanwar</h1>
 <h3 align="center">An AI/ML Enthusiast</h3>
 
-- 🤖 I’m currently learning **Machine Learning and Reinforcement Learning**
+- 🤖 Learning **Machine Learning and Reinforcement Learning**
 
 - 💬 Ask me about **AI. Software. Cars.**
 
