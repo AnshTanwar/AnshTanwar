@@ -3,7 +3,7 @@
 
 - 🤖 Learning **Machine Learning and Reinforcement Learning**
 
-- 💬 Ask me about **AI. Software. Cars.**
+- 🏢 Looking for work in **Data Science and Machine Learning**
 
 - 📫 How to reach me **anshtanwar007@gmail.com**
 
