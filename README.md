@@ -1,7 +1,7 @@
 <h1 align="center">I'm Ansh Tanwar</h1>
 <h3 align="center">An AI/ML Enthusiast</h3>
 
-- 🤖 I like to code and play basketball
+- 🤖 I am a Kaggle master and Amazon ML Challenge Winner
 
 - 🏢 Looking for internship in **Data Science and Machine Learning**
 
