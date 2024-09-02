@@ -1,10 +1,7 @@
 <h1 align="center">I'm Ansh Tanwar</h1>
 <h3 align="center">An AI/ML Enthusiast</h3>
 
-- 🤖 I am a Kaggle master and Amazon ML Challenge Winner
-
-- 🏢 Looking for internship in **Data Science and Machine Learning**
-
+- Data Scientist with a strong academic background, skilled in fine-tuning LLMs, optimizing ML models, and solving real-world problems; Kaggle Master and Amazon ML Challenge National Winner.
 - 📫 How to reach me **anshtanwar007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
