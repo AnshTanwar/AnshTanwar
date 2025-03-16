@@ -1,7 +1,7 @@
 <h1 align="center">I'm Ansh Tanwar</h1>
 <h3 align="center">An AI/ML Enthusiast</h3>
 
-- Data Scientist with a strong academic background, skilled in fine-tuning LLMs, optimizing ML models, and solving real-world problems; Kaggle Master and Amazon ML Challenge National Winner.
+- ML Engineer with a strong academic background, skilled in LLMs, optimizing ML models, and solving real-world software engineering problems; Kaggle Master and Amazon ML Challenge National Winner.
 - 📫 How to reach me **anshtanwar007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
