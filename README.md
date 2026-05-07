@@ -14,7 +14,8 @@ ML Engineer from **NSUT, New Delhi** with a strong academic background, skilled 
 
 - **Kaggle Master** | **Amazon ML Challenge National Winner**
 - Currently working on [Agent-groupStudy](https://github.com/AnshTanwar/Agent-groupStudy) -- adversarial self-play for multi-objective AI agents
-- Contributing to [Unify AI's Ivy](https://github.com/AnshTanwar/ivy) -- The Unified AI Framework
+- Contributing to [LiveKit Agents](https://github.com/AnshTanwar/agents) -- Realtime voice AI agents framework
+- Building and working on **Voice AI Agents**
 - Built satellite ground station GUI for **CanSat Competition** ([GUI-Cansat-22](https://github.com/AnshTanwar/GUI-Cansat-22))
 
 <br/>
