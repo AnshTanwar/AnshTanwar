@@ -36,25 +36,6 @@ ML Engineer from **NSUT, New Delhi** with a strong academic background, skilled 
 
 <br/>
 
-## Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnshTanwar&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
-## Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnshTanwar&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
 
 ## Open Source Contributions
 
