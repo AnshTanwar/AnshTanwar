@@ -43,10 +43,10 @@ ML Engineer from **NSUT, New Delhi** with a strong academic background, skilled 
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Agent-groupStudy](https://github.com/AnshTanwar/Agent-groupStudy) | Adversarial self-play for multi-objective capability optimization | Python, LLMs |
-| [Ivy (Unify AI)](https://github.com/AnshTanwar/ivy) | Contributing to The Unified AI Framework | Python |
+| [LiveKit Agents](https://github.com/AnshTanwar/agents) | Contributed Sarvam AI plugin addon for realtime voice agents | Python |
+| [NannyML](https://github.com/AnshTanwar/The-Little-Book-of-ML-Metrics) | Contributing to ML monitoring & model performance tracking | Python, ML |
 | [GUI-Cansat-22](https://github.com/AnshTanwar/GUI-Cansat-22) | Ground station GUI for a Can-Sized Satellite | Python, PyQt |
 | [credit-ease](https://github.com/AnshTanwar/credit-ease) | AI-based credit scoring without credit history | Python, ML |
-| [LiveKit Agents](https://github.com/AnshTanwar/agents) | Realtime voice AI agents framework | Python |
 
 </div>
 
