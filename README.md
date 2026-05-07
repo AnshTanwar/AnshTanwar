@@ -23,15 +23,14 @@ ML Engineer from **NSUT, New Delhi** with a strong academic background, skilled 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshTanwar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-anshtanwar.vercel.app/api?username=AnshTanwar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com/?user=AnshTanwar&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshTanwar&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshTanwar&repo=Agent-groupStudy&theme=tokyonight&hide_border=true" width="49%" alt="Agent-groupStudy"/>
+  <img src="https://github-readme-stats-anshtanwar.vercel.app/api/top-langs/?username=AnshTanwar&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%" alt="Top Languages"/>
 </div>
 
 <br/>
